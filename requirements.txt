@@ -1,0 +1,2 @@
+terminal_playing_cards
+numpy
